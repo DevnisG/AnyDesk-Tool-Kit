@@ -43,3 +43,7 @@ Ejecutar el comando de compilación:
 Comando: "flet build windows --verbose"
 
 Este comando compilará el proyecto en un ejecutable de Windows, ideal para entornos de producción.
+
+![anykit py](https://github.com/user-attachments/assets/276ec3f9-320b-4df4-a028-24384152f00c)
+
+
