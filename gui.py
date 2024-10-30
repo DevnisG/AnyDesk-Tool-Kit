@@ -55,7 +55,7 @@ def create_ui(page: ft.Page):
 
     # Footer text displaying developer information and license details:
     footer_label = ft.Text(
-        "Desarrollado por Denis Gontero - 2024 Licencia Gratuita.",
+        "Desarrollado por Denis Gontero - 2024 Licencia Libre.",
         size=12,
         color="red",
         text_align="center",
