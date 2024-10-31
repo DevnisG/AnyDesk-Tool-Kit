@@ -1,4 +1,3 @@
-AnyDesk Tool Kit
 AnyDesk Tool Kit es un proyecto de código abierto disponible para descarga y modificación libre. Como herramienta open-source, puedes usarla, modificarla y mejorarla según tus necesidades o preferencias, ya sea para uso personal o profesional.
 
 Descripción
