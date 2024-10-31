@@ -1,6 +1,5 @@
 AnyDesk Tool Kit es un proyecto de código abierto disponible para descarga y modificación libre. Como herramienta open-source, puedes usarla, modificarla y mejorarla según tus necesidades o preferencias, ya sea para uso personal o profesional.
 
-Descripción
 AnyDesk Tool Kit es una herramienta complementaria para el control y configuración rápida de AnyDesk, diseñada para usuarios que requieren gestionar configuraciones de acceso remoto de manera eficiente. A través de una interfaz gráfica intuitiva, puedes establecer o eliminar contraseñas de acceso, abrir AnyDesk, y ajustar configuraciones de seguridad, todo desde una sola aplicación.
 
 
