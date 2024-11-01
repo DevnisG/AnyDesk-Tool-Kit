@@ -28,7 +28,7 @@ Es especialmente útil para personas que necesitan controlar remotamente disposi
 
 3. ¿Cómo se compila?
    
-- Clonar el repositorio: git clone https://github.com/tu_usuario/anydesk-tool-kit.git
+- Clonar el repositorio: git clone [https://github.com/tu_usuario/anydesk-tool-kit.git](https://github.com/DevnisG/AnyDesk-Tool-Kit.git)
 - cd anydesk-tool-kit
 - Instalar dependencias: pip install -r requirements.txt
 Ejecutar la aplicación: python main.py
